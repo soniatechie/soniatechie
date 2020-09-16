@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for a job on web development.
+- 🌱 I’m currently learning html, css, js and react.
+- 👯 I’m looking to collaborate on coding whatever.
+- 🤔 I’m looking for help with finding a job in this wild world full of code.
+- 💬 Ask me about Excel, Safety on toys, wind bands music, robots and LGTBIQ+ series.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sogaral/).
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: the name of my user is how my initials sounds in my mother languaje: SMGA.
+
 <!--
 **Esemega/Esemega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
