@@ -3,7 +3,7 @@
 
 ### CONTACT ME
 [![Linkedin Badge](https://img.shields.io/badge/-Sonia_Garcia_Alcaraz-2867B2?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sogaral/)](https://www.linkedin.com/in/sogaral/)
-[![Twitter Badge](https://img.shields.io/badge/-So__oni-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/So_oni/)](https://twitter.com/So_oni/)
+[![Twitter Badge](https://img.shields.io/badge/-So__oni-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/soniatechie/)](https://twitter.com/So_oni/)
 
 
 ### ABOUT ME
